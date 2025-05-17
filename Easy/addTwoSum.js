@@ -1,3 +1,8 @@
+// Problem: Two Sum
+// Link: https://leetcode.com/problems/two-sum/
+// Approach: Hash Map
+// Time: O(n), Space: O(n)
+
 /**
  * @param {number[]} nums
  * @param {number} target
